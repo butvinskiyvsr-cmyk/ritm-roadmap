@@ -1,0 +1,30 @@
+name: Сообщить об ошибке
+description: Публичное описание ошибки без личных данных
+title: "[Ошибка] "
+labels: [ошибка]
+body:
+  - type: markdown
+    attributes:
+      value: Для ошибки, связанной с вашим аккаунтом или данными, используйте форму обратной связи внутри RITM. Здесь оставляйте только обезличенное описание.
+  - type: textarea
+    id: actual
+    attributes:
+      label: Что происходит?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Как должно быть?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Как повторить?
+      description: Не добавляйте личные данные или содержимое задач.
+  - type: input
+    id: version
+    attributes:
+      label: Версия RITM
+      placeholder: "Например, 0.41.0"

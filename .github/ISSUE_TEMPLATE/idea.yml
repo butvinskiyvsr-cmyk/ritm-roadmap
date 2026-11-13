@@ -1,0 +1,29 @@
+name: Предложить улучшение
+description: Публичное предложение для RITM
+title: "[Идея] "
+labels: [предложение]
+body:
+  - type: markdown
+    attributes:
+      value: Не добавляйте УИД, почту, пароли, текст задач и писем или снимки с личными данными. Для личного сообщения используйте форму в RITM.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Что сейчас неудобно?
+      description: Опишите общий сценарий без личных данных.
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Что хотелось бы сделать?
+      description: Какой результат вы ожидаете?
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Где это нужно?
+      options: [Рабочий стол, Задачи, Совместная работа, Планировщик, Настройки, Web, Android, Другое]
+    validations:
+      required: true
