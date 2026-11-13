@@ -1,6 +1,6 @@
 # RITM — публичная дорожная карта
 
-Здесь можно посмотреть, какие улучшения RITM изучаются, запланированы и выполняются. [Открыть доску задач](https://github.com/users/butvinskiyvsr-cmyk/projects/2).
+Здесь можно посмотреть, какие улучшения RITM изучаются, запланированы и выполняются. [Открыть доску задач](https://github.com/users/butvinskiyvsr-cmyk/projects/2/views/2).
 
 RITM — приложение для личных и совместных задач. [Сайт](https://ritmspace.online/) · [Установщики и релизы](https://github.com/butvinskiyvsr-cmyk/ritm-releases/releases).
 
