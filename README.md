@@ -4,6 +4,12 @@
 
 RITM — приложение для личных и совместных задач. [Сайт](https://ritmspace.online/) · [Установщики и релизы](https://github.com/butvinskiyvsr-cmyk/ritm-releases/releases).
 
+## Состояние на 17 ноября 2026 года
+
+- **Выпущено в [RITM 0.43.0](https://github.com/butvinskiyvsr-cmyk/ritm-releases/releases/tag/v0.43.0):** [порядок совместных задач](https://github.com/butvinskiyvsr-cmyk/ritm-roadmap/issues/5), [связь даты новой задачи и блока времени](https://github.com/butvinskiyvsr-cmyk/ritm-roadmap/issues/6), [переход к аккаунту из верхней кнопки](https://github.com/butvinskiyvsr-cmyk/ritm-roadmap/issues/7).
+- **Проверяется пользователями:** [RITM 0.43.0 на рабочих компьютерах](https://github.com/butvinskiyvsr-cmyk/ritm-roadmap/issues/8); улучшения 0.42.0 также остаются в колонке «Проверка» до получения отзывов.
+- **На разборе:** [отдельный статус «В работе» для обращений](https://github.com/butvinskiyvsr-cmyk/ritm-roadmap/issues/4). Решение о реализации ещё не принято.
+
 ## Как читать доску
 
 - **На разборе** — предложение изучается, решение ещё не принято.
